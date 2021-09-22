@@ -1,8 +1,9 @@
 file description
 
-> Abbreviations and Slang.csv  --- Contains short from and full words pairs
+Abbreviations and Slang.csv  --- Contains short from and full words pairs
 
 source: https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/master/Abbreviations%20and%20Slang.csv
+
 <br/>
 
 
