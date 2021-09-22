@@ -6,7 +6,9 @@ source: https://github.com/naureen20/Real-or-Not-NLP-with-Disaster-Tweets/blob/m
 
 
 
+
 All_Dictionary_Correct_Words --- Contains all correct words of English Language  (to be used for phonetic algorithms)
+
 
 
 
@@ -16,10 +18,12 @@ source: https://github.com/GabrieleMazzola/Natural-language-processing_TUDelft/b
 
 
 
+
 aspell.txt                   --- Correct:Incorrect1 Incorrect2 incorrect 3......incorrect n. - words
 
 source: https://www.kaggle.com/bittlingmayer/spelling
                                                                                                                
+
 
 
 birkbeck.txt                 --- Correct:Incorrect1 Incorrect2 incorrect 3......incorrect n. - words
@@ -27,7 +31,8 @@ birkbeck.txt                 --- Correct:Incorrect1 Incorrect2 incorrect 3......
 source: https://www.kaggle.com/jatingoyal123/spelling-checker/data?select=birkbeck.txt
 
  
- 
+
+
 spell-testset1.txt           --- Correct:Incorrect1 Incorrect2 incorrect 3......incorrect n. - words
 
 source: https://github.com/NishantBelwal-7/Phonetics/blob/master/dataset/spell-testset1.txt
