@@ -39,7 +39,12 @@ int main() {
             }
             else{
                 wrongWord = words;
+                wrongWord = wrongWord+':';
                 //cout<<"Inserting in m\n";
+
+                transform(correctWord.begin(), correctWord.end(), correctWord.begin(), ::tolower);
+                transform(wrongWord.begin(), wrongWord.end(), wrongWord.begin(), ::tolower);
+
                 m.insert({wrongWord,correctWord});
             }
         }
